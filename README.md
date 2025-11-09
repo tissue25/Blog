@@ -1,2 +1,3 @@
 # Blog
-tissue25's personal blog
+
+This is my personal blog. I will post whatever that is interesting to me.
